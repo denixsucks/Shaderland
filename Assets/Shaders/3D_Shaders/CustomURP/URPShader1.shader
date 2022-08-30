@@ -1,4 +1,4 @@
-Shader "Unlit/URPShaderExample1"
+Shader "Deniz/Unlit/URPShaderExample1"
 {
     Properties
     {

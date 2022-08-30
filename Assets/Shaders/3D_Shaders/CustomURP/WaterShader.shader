@@ -1,4 +1,4 @@
-Shader "Unlit/WaterCustomURP"
+Shader "Deniz/Unlit/Water"
 {
     Properties
     {

@@ -1,5 +1,5 @@
          
-Shader "Unlit/VectorLines"
+Shader "Deniz/Unlit/VectorLines"
 {
     Properties
     {

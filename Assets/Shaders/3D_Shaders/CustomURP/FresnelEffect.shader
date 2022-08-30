@@ -1,4 +1,4 @@
-Shader "Unlit/FresnelCustomURP"
+Shader "Deniz/Unlit/Fresnel"
 {
     Properties
     {

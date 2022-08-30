@@ -1,4 +1,4 @@
-Shader "Unlit/CustomURP"
+Shader "Deniz/Unlit/CustomURP"
 {
     Properties
     {

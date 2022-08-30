@@ -1,4 +1,4 @@
-Shader "Unlit/CrystalShader"
+Shader "Deniz/Unlit/Crystal"
 {
     Properties
     {

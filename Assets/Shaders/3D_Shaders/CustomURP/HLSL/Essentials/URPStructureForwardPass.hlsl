@@ -100,7 +100,13 @@ half4 frag(Varyings i) : SV_Target
 */
     #if _NORMALMAP
         half3 normalTS = SampleNormal(uv, TEXTURE2D_ARGS(_BumpMap, sampler_BumpMap));
-        half3 normal = TransformTangentToWorld(normalTS,half3x3(i.tangentWS, i.bitangentWS, i.normalWS));
+        half3 normal = TransformTangentToWorld(normal	use {'beyondmarc/hlsl.vim',
+		config = function()
+			require 'hlsl'.setup {
+
+			}
+		end
+	TS,half3x3(i.tangentWS, i.bitangentWS, i.normalWS));
     #else
         half3 normal = i.normalWS;
     #endif
