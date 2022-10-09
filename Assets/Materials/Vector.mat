@@ -21,7 +21,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 46b8f83a1adcfdd4c92099d66bc6fcd9, type: 3}
+        m_Texture: {fileID: 2800000, guid: d1b33d83af91795429aa89c52b04ef07, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SDF_Texture:
@@ -31,10 +31,10 @@ Material:
     m_Ints: []
     m_Floats:
     - _Outline_Smoothness: 0
-    - _Outline_Thickness: 0.3
+    - _Outline_Thickness: 0.269
     - _Smoothness: 0
-    - _Thickness: 0.75
-    - _Threshold: 0.72
+    - _Thickness: 0.74
+    - _Threshold: 0.52
     m_Colors:
     - _BaseColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 1.1353015, g: 1.1353015, b: 1.1353015, a: 1}
