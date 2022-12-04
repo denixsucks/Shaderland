@@ -21,7 +21,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 5553ac116bb049d4a9a7290ee8356799, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CustomTexture:
@@ -34,10 +34,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Idktf: 2913.4
-    - _LightFlicker: 0.1
-    - _NoiseSpeed: 0.01
-    - _PowerInt: 0.68
+    - _Idktf: 730
+    - _LightFlicker: 0.05
+    - _NoiseSpeed: 0.25
+    - _PowerInt: 1
     m_Colors:
-    - _NoiseColor: {r: 20.586512, g: 3.6381338, b: 9.317172, a: 1}
+    - _NoiseColor: {r: 0, g: 1.4200361, b: 0.90201575, a: 1}
   m_BuildTextureStacks: []

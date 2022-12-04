@@ -21,7 +21,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _AlphaTexture:
-        m_Texture: {fileID: 2800000, guid: db08abf5e75c36545b0ac0d898d9a3ff, type: 3}
+        m_Texture: {fileID: 2800000, guid: ec2c322faa755d64cb15e769a5ef3d9a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
@@ -34,7 +34,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Multiplier: 0.1
+    - _Multiplier: 0
+    - _ShineAmount: 6.89
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _ShineColor: {r: 1, g: 1, b: 1, a: 1}
