@@ -18,6 +18,7 @@ public class CameraZoom : MonoBehaviour
         else
         {
             Camera.main.fieldOfView = Mathf.Lerp(Camera.main.fieldOfView, normalFOV, Time.deltaTime * zoomSmooth);
+
         }
     }
 }

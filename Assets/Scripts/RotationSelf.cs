@@ -8,7 +8,7 @@ public class RotationSelf : MonoBehaviour
   [SerializeField] GameObject a,b,c,d,e,f;
   void Start()
   {
-
+    Debug.Log("Yarrak.");
   }
 
   // Update is called once per frame
